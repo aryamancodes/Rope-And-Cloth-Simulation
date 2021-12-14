@@ -4,7 +4,7 @@
 More information about the controls can be found here: [CONTROLS](#controls)
 
 Create your own rope or cloth-like objects and simulate collisions against obstacles, movement in the (user-controlled!) wind and even rope tears. Play around, experiment and try not to break physics! <br>
-![Demo Gif](/assets/rope-sim-demo.gif) <br>
+![Demo Gif](/Assets/rope-sim-demo.gif) <br>
 This interactive simulation uses the principles of *[Verlet Integration](https://www.algorithm-archive.org/contents/verlet_integration/verlet_integration.html)* to realistically model rope mechanics and is made using the ```p5.js``` library. 
 
 
